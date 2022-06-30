@@ -1,4 +1,4 @@
-<h1 align="center">Hello There! I'm **Yash Richhariya**</h1>
+<h1 align="center">Hello There! I'm <b>Yash Richhariya</b></h1>
 <h3 align="center">A Productivity-addict/ Leader obsessed with Machine Learning, Android App Development and UI/ UX design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrichhariyaa&label=Visits!&color=c421e0&style=flat" alt="yashrichhariyaa" /> </p>
