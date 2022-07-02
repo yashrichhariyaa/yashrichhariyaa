@@ -1,11 +1,13 @@
 <h1 align="center">Hello There! This is Yash Richhariya</h1>
-<h3 align="center">A Productivity-addict/ Leader obsessed with Machine Learning, Android App Development and UI/ UX design.</h3>
+<h3 align="center">A Productivity-Addict/ Leader obsessed with Machine Learning, Android App Development and UI/ UX design.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashrichhariyaa&label=Visits&color=c421e0&style=flat" alt="yashrichhariyaa" /> </p>
 
-- 👨🏻‍💻 I’m currently working on **Machine Learning & App Development.**
+- Currently working on **Machine Learning & App Development.**
 
-- 🤝🏻 I’m looking to collaborate with **developers working on ML Models.**
+- Looking to collaborate with **developers working on ML Models & Android Applications.**
+
+- An open-source contributor!
 
 <h3 align="center">Connect with Me:</h3>
 <p align="center">
@@ -20,8 +22,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/yashrichhariyaa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yashrichhariyaa" /></a></p><br><br>
 
-<br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yashrichhariyaa&show_icons=true&theme=radical&title_color=ffffff&text_color=00ff00&locale=en&layout=compact" alt="yashrichhariyaa" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrichhariyaa&show_icons=true&theme=dracula&title_color=ffffff&text_color=00e300&locale=en" alt="yashrichhariyaa" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yashrichhariyaa&show_icons=true&theme=dracula&title_color=ffffff&text_color=00e300&locale=en" alt="yashrichhariyaa" /></p>
 
